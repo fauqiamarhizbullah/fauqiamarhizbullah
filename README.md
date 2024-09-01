@@ -11,7 +11,7 @@ I'm a tech enthusiast from Indonesia with a knack for programming, cloud computi
 - **Databases:** MySQL, MariaDB, PostgreSQL, SQLite, MongoDB
 - **Serverless Providers:** Appwrite, Supabase, PocketBase, Firebase, Coolify, Vercel, Netlify
 - **Cloud Providers:** Amazon Web Services, Azure, Google Cloud Platform, DigitalOcean, Vultr, Biznet Gio Cloud, IDCloudHost, Hostinger
-- **Server OS:** Linux, Ubuntu, Debian
+- **Server Operating Systems:** Linux, Ubuntu, Debian
 - **Other Tools:** Docker
 
 ## Projects 🚀
