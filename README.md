@@ -20,4 +20,4 @@ I'm a tech enthusiast from Indonesia. I like technology, linguistics, and jazz f
 ## Contact Me 📫
 - **Imoji:** [imoji.id/😉](https://imoji.id/😉)
 - **Email:** fauqi@hizbullah.xyz
-- **Blog:** [fauqi.com/blog](https://fauqi.com/blog)
+- **Blog:** [fauqi.com](https://fauqi.com)
