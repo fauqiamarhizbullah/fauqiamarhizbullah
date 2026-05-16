@@ -4,8 +4,8 @@
 I'm a tech enthusiast from Indonesia. I like technology, linguistics, and jazz fusion music.
 
 ## Technologies & Tools 🔧
-- **Languages:** PHP, JavaScript, TypeScript, Rust, Go, Ruby, Python
-- **Frameworks:** Laravel, Adonis, Loco.rs, Ruby on Rails, Django, Inertia, Next, Nuxt, SvelteKit, React, Vue, Svelte
+- **Languages:** PHP, JavaScript, TypeScript, Elixir, Rust, Go, Ruby, Python
+- **Frameworks:** Laravel, Adonis, Phoenix Elixir, Loco.rs, Ruby on Rails, Django, Inertia, Next, Nuxt, SvelteKit, React, Vue, Svelte
 - **CSS:** TailwindCSS
 - **Databases:** PostgreSQL, MySQL, MariaDB, SQLite
 - **Serverless Providers:** Vercel, Cloudflare Workers
